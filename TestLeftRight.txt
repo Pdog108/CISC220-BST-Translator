@@ -1,0 +1,13 @@
+IDK	I don't know.
+DMI	Don't mention it!
+BM	Beats me!
+WN	What's new?
+GIH	Glad it helped!
+SAA	Same as always!
+AB	Absolutely
+YTB	You're the best!
+TST	That's so true!
+LY	Love you!
+HL	How's life?
+EX	Exactly!
+CBB	Could be better

@@ -1,0 +1,9 @@
+AB	Absolutely
+BM	Beats me.
+CBB	Could be better
+DMI	Don't mention it.
+EX	Exactly
+GIH	Glad it helped!
+HL	How's life?
+IDK	I don't know
+LY Love you!
